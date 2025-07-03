@@ -1,0 +1,8 @@
+id,name,age,salary,department,join_date
+1,John,28.0,50000.0,Sales,2019-04-01
+2,Mary,35.0,60000.0,Engineering,2018-07-15
+3,,22.0,,Marketing,2020-01-10
+4,Steve,45.0,80000.0,Sales,
+5,Anna,,70000.0,Engineering,2017-05-23
+6,Tom,30.0,,Marketing,2019-09-09
+7,Lisa,27.0,48000.0,Sales,2019-11-30
